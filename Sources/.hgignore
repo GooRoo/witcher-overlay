@@ -1,0 +1,4 @@
+syntax: glob
+*.filters
+*/Debug/*
+*/Release/*
