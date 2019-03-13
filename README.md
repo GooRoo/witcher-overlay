@@ -2,6 +2,8 @@
 
 It's a simple Steam-like overlay for Witcher game made in the middle of 2015.
 
+![screenshot](screen.png)
+
 ## Preface
 
 I knew almost nothing about hooks and had no experience with DirectX. So I decided to find some open source library in order to solve this task.
