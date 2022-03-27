@@ -1,6 +1,8 @@
 # Witcher Overlay
 
-It's a simple Steam-like overlay for Witcher game made in the middle of 2015.
+[![Made by Ukrainian](https://img.shields.io/static/v1?label=Made%20by&message=Ukrainian&labelColor=1f5fb2&color=fad247&style=for-the-badge)](https://github.com/GooRoo/ukrainian-shields)
+
+It's a simple Steam-like overlay for Witcher game that I made in the middle of 2015 as a test before interview in GOG.
 
 ![screenshot](screen.png)
 
@@ -55,4 +57,4 @@ In order to build the project you need:
 [detours]: http://research.microsoft.com/en-us/projects/detours/
 [dx9-overlay]: https://github.com/agrippa1994/DX9-Overlay-API
 [minhook]: https://github.com/TsudaKageyu/minhook
-[mumble]: https://github.com/mumble-voip/mumble)
+[mumble]: https://github.com/mumble-voip/mumble
